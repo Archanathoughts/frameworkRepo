@@ -23,6 +23,12 @@ public class ContactTest {
 		
 		System.out.println("createContactTestwithPhone");
 	}
+	@Test
+	public void deleteContactTest()
+	{
+		
+		System.out.println("deleteContactTeste");
+	}
 }
 /**
  * test suite execution via pom.xml
